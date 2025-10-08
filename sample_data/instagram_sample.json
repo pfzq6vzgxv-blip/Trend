@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ig_slow_zoom",
+    "title": "Slow zoom meme template",
+    "author": "reelcrafter",
+    "url": "https://www.instagram.com/reel/ABC123",
+    "caption": "Slow zoom challenge",
+    "tags": ["#slowzoom", "#template", "#meme"],
+    "timestamp": "2024-05-11T11:40:00Z",
+    "views": 780000,
+    "likes": 99000,
+    "comments": 8900,
+    "shares": 12500,
+    "history": [
+      {
+        "timestamp": "2024-05-11T07:40:00Z",
+        "views": 250000,
+        "likes": 30000,
+        "comments": 2800,
+        "shares": 3500
+      },
+      {
+        "timestamp": "2024-05-11T09:40:00Z",
+        "views": 520000,
+        "likes": 63000,
+        "comments": 5400,
+        "shares": 7400
+      }
+    ]
+  },
+  {
+    "id": "ig_capy_confessions",
+    "title": "Capybara confessions",
+    "author": "capybarafan",
+    "url": "https://www.instagram.com/reel/XYZ789",
+    "caption": "Capybara truths",
+    "tags": ["#capybara", "#confessions", "#relatable"],
+    "timestamp": "2024-05-11T11:50:00Z",
+    "views": 560000,
+    "likes": 87000,
+    "comments": 6100,
+    "shares": 9600,
+    "history": [
+      {
+        "timestamp": "2024-05-11T08:50:00Z",
+        "views": 180000,
+        "likes": 24000,
+        "comments": 1500,
+        "shares": 2300
+      },
+      {
+        "timestamp": "2024-05-11T10:20:00Z",
+        "views": 390000,
+        "likes": 52000,
+        "comments": 3600,
+        "shares": 5200
+      }
+    ]
+  }
+]

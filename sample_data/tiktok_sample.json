@@ -1,0 +1,60 @@
+[
+  {
+    "id": "tt_funny_cat",
+    "title": "Cat vibing to eurodance",
+    "author": "catastic",
+    "url": "https://www.tiktok.com/@catastic/video/123",
+    "caption": "This beat is purrfect",
+    "tags": ["#cat", "#vibes", "#meme"],
+    "timestamp": "2024-05-11T12:00:00Z",
+    "views": 1450000,
+    "likes": 185000,
+    "comments": 12400,
+    "shares": 21000,
+    "history": [
+      {
+        "timestamp": "2024-05-11T09:00:00Z",
+        "views": 650000,
+        "likes": 72000,
+        "comments": 5100,
+        "shares": 8000
+      },
+      {
+        "timestamp": "2024-05-11T10:30:00Z",
+        "views": 980000,
+        "likes": 110000,
+        "comments": 7300,
+        "shares": 12000
+      }
+    ]
+  },
+  {
+    "id": "tt_ai_prank",
+    "title": "AI voice prank on roommate",
+    "author": "lolbot",
+    "url": "https://www.tiktok.com/@lolbot/video/456",
+    "caption": "When the AI knows your secrets",
+    "tags": ["#ai", "#prank", "#roommate"],
+    "timestamp": "2024-05-11T12:05:00Z",
+    "views": 920000,
+    "likes": 134000,
+    "comments": 15200,
+    "shares": 18000,
+    "history": [
+      {
+        "timestamp": "2024-05-11T08:05:00Z",
+        "views": 300000,
+        "likes": 45000,
+        "comments": 3800,
+        "shares": 5000
+      },
+      {
+        "timestamp": "2024-05-11T10:05:00Z",
+        "views": 620000,
+        "likes": 89000,
+        "comments": 9200,
+        "shares": 11000
+      }
+    ]
+  }
+]
